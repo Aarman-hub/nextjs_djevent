@@ -1,8 +1,9 @@
 import React from 'react'
+import Layout from '../../components/Layout'
 
 const events = () => {
   return (
-    <div>index</div>
+    <Layout title={"Events"}>index</Layout>
   )
 }
 
